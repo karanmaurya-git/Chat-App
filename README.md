@@ -21,7 +21,6 @@
 - Socket.io
 
 ---
-
 ## 📁 Project Structure
 Chat-App/
 │
