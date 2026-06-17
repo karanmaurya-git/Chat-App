@@ -45,13 +45,11 @@ This project allows multiple users to communicate instantly in real time using W
 - Socket.io
 
 ---
-
-## 📁 Project Structure
+📁 Project Structure
 Chat-App/
-│
-├── client/                         # 🎨 React Frontend
+├── client/                     # 🎨 React Frontend
 │   ├── src/
-│   │   ├── Chat.jsx               # 💬 Chat UI (main component)
+│   │   ├── Chat.jsx            # 💬 Chat UI (main component)
 │   │   ├── App.jsx
 │   │   ├── main.jsx
 │   │   └── index.css
@@ -60,13 +58,12 @@ Chat-App/
 │   ├── package.json
 │   └── vite.config.js
 │
-├── server/                         # ⚙️ Backend (Node + Socket.io)
+├── server/                     # ⚙️ Backend (Node + Socket.io)
 │   ├── server.js
-│   ├── package.json
+│   └── package.json
 │
 ├── .gitignore
 └── README.md
-
 ---
 
 ## 👨‍💻 Author
