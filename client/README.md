@@ -46,6 +46,7 @@ This project allows multiple users to communicate instantly in real time using W
 
 ---
 📁 Project Structure
+```text
 Chat-App/
 ├── client/                     # 🎨 React Frontend
 │   ├── src/
@@ -64,6 +65,7 @@ Chat-App/
 │
 ├── .gitignore
 └── README.md
+```
 ---
 
 ## 👨‍💻 Author
